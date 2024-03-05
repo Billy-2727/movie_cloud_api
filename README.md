@@ -6,7 +6,7 @@ The architecture its self is very simple however effective. At its core the main
 ![/img/architecture.png](https://github.com/Billy-2727/movie_cloud_api/blob/master/img/architecture.png)
 
 # Get Started
-Below is a step-by-step on how to run the function call python scipt locally. If you would like to see how to deploy the Azure Function on your own cloud instance see here
+Below is a step-by-step on how to run the function call python scipt locally.
 
 ### Pre-requisites/Library Requirements
 - Python (latest) - Download [here](https://www.python.org/downloads/)
